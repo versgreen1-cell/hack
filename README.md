@@ -107,6 +107,7 @@ Processing Flow:
 7. Automatic fallback to placeholders if Ollama unavailable
 
 ## Demo
+![video alt](https://github.com/versgreen1-cell/hack/blob/bd0d4065d399957093463ed9ade8d0c5c1d5f04b/screencast.mp4)
 
 See QuickCaption in action:
 
